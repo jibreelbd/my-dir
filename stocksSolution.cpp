@@ -3,7 +3,7 @@
 #include <cmath>
 using std::vector;
 
-
+//first project.
 int getMaxProfit(const vector<int>& stockPrices);
 int main() {
     vector<int> stockPrices{10, 7, 5, 8, 11, 9};
